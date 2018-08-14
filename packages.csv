@@ -6,11 +6,11 @@ xorg-init, ,
 i3, ,
 sudo, , 
 zsh, ,
-dmenu
-rxvt-unicode
-rxvt-unicode-terminfo
+dmenu, ,
+rxvt-unicode, ,
+rxvt-unicode-terminfo, ,
 yaourt, , 
 vim, ,
 firefox, ,
-ttf-inconsolata
+ttf-inconsolata, ,
 
