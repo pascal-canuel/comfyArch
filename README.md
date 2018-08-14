@@ -31,3 +31,5 @@ The parameters are for an UEFI/GPT mode. For a BIOS/MBR boot the file system nee
 Read more than one time and carefully the [Dual boot with Windows](https://wiki.archlinux.org/index.php/Dual_boot_with_Windows) of the wiki and the [installation guide](https://wiki.archlinux.org/index.php/installation_guide). It's really important!
 You will only need to create a `Swap & root & home` partition.    
 Be careful, there's a lot of installation guide with outdated informations. Stick to the [wiki](https://wiki.archlinux.org/)
+
+# Raspberry pi
