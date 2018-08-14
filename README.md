@@ -7,6 +7,12 @@ Why Arch?
 - Rolling release and update the system with one command `pacman -Syu`
 ![](/pictures/comfyArch.jpg)
 
+Sometimes it's going to be frustrating, but it's normal and it's going to take time
+
+*“Hofstadter's Law: It always takes longer than you expect,    
+even when you take into account Hofstadter's Law"*   
+**- Douglas R. Hofstadter **   
+
 # Dualboot 
 There's things to do before the installation:
 - Disable Secure Boot in your BIOS
