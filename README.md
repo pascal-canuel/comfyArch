@@ -38,4 +38,14 @@ Read more than one time and carefully the [Dual boot with Windows](https://wiki.
 You will only need to create a `Swap & root & home` partition.    
 Be careful, there's a lot of installation guide with outdated informations. Stick to the [wiki](https://wiki.archlinux.org/)
 
+# Grub 
+
+It should find your Windows boot manager too!   
+`pacman -Syu grub efibootmgr os-prober`   
+`grub-mkconfig -o /boot/grub/grub.cfg`   
+install grub into the drive
+`grub-install /dev/sdX`        
+Confirm installation   
+`ls -l /boot/efi/EFI/arch/`   
+
 # Raspberry pi
