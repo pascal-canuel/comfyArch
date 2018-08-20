@@ -49,3 +49,5 @@ Confirm installation
 `ls -l /boot/efi/EFI/arch/`   
 
 # Raspberry pi
+
+Follow this [installation guide](https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-3)
