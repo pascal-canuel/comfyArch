@@ -52,4 +52,6 @@ Confirm installation
 
 Follow this [installation guide](https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-3)   
 If you want to ssh in your terminal don't forget to install the same terminal you are using in it! For me it's rxvt-unicode.
-Without your commands won't be detected or you will have some issues.
+Without your commands won't be detected or you will have some issues.   
+
+To connect without a password [copy your public key](https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md) into the authorized key repo into your raspberry pi
