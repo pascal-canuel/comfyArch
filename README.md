@@ -54,4 +54,5 @@ Follow this [installation guide](https://archlinuxarm.org/platforms/armv8/broadc
 If you want to ssh in your terminal don't forget to install the same terminal you are using in it! For me it's rxvt-unicode.
 Without your commands won't be detected or you will have some issues.   
 
-To connect without a password [copy your public key](https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md) into the authorized key repo into your raspberry pi
+To connect without a password [copy your public key](https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md) into the authorized key repo into your raspberry pi   
+Don't forget to generate your locale too!
